@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/selinium/static/css/main.b52e0790.css",
+    "main.js": "/selinium/static/js/main.5605e5de.js",
+    "static/js/453.ac144875.chunk.js": "/selinium/static/js/453.ac144875.chunk.js",
+    "static/media/bg.jpg": "/selinium/static/media/bg.efc530ab256b263cc9aa.jpg",
+    "static/media/logo.svg": "/selinium/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/selinium/index.html",
+    "main.b52e0790.css.map": "/selinium/static/css/main.b52e0790.css.map",
+    "main.5605e5de.js.map": "/selinium/static/js/main.5605e5de.js.map",
+    "453.ac144875.chunk.js.map": "/selinium/static/js/453.ac144875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b52e0790.css",
+    "static/js/main.5605e5de.js"
+  ]
+}
