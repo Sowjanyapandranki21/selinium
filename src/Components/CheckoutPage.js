@@ -101,7 +101,7 @@ const CheckoutPage = ({ data, checkshow, fruit }) => {
                 Total After Discount : {finalAmount}
               </b>{" "}
               <br />
-              <button className="promoBtn w-100">Place Order</button>
+              <button className="cartbutton1">Place Order</button>
             </div>
           </div>
         </div>
